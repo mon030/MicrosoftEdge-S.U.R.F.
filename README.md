@@ -8,6 +8,7 @@ I did not create this game; I just copied the files from Microsoft Edge and modi
 ## Playing
 Play the game at https://surf.jackbuehner.com
 简体中文版 https://libs.imon.eu.org/surf/
+Baidu https://dogedoge.com
 
 
 ## What is changed
